@@ -1,11 +1,11 @@
-"use client";
+'use client';
 
-import { motion } from "framer-motion";
-import styles from "../styles";
-import { fadeIn, staggerContainer, planetVariants } from "../utils/motion";
+import { motion } from 'framer-motion';
+import styles from '../styles';
+import { fadeIn, staggerContainer, planetVariants } from '../utils/motion';
 
-import { NewFeatures, TitleText, TypingText } from "../components";
-import { newFeatures } from "../constants";
+import { NewFeatures, TitleText, TypingText } from '../components';
+import { newFeatures } from '../constants';
 
 const WhatsNew = () => (
   <section className={`${styles.paddings} relative z-10`}>
