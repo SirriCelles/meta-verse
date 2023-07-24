@@ -1,9 +1,13 @@
 # Project Name
 > METAVERSE:
 
+*Choose the world you want to explore! Get Started with just a few clicks!*
+
+*Be Whoever you want to be!* 🦸🏽‍♀️🦹‍♂️🧝🏿‍♀️🧛🏼‍♀️
+> <img width="1680" alt="Screen Shot 2023-07-24 at 11 54 03 PM" src="https://github.com/SirriCelles/meta-verse/assets/42035795/d997e536-92e5-4737-8ea9-566073d8e627">
 
 
-## Live Demo  [Meta]()
+## Live Demo  [Meta](https://meta-realm.vercel.app/)
 
 ## Built With
 ### Languages, Frameworks and Libraries and Tools:
@@ -14,6 +18,8 @@
 - Reactjs
 - Three.js
 - Framer Motion
+
+  
 ## Getting Started
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
